@@ -1,3 +1,3 @@
-// check connection to html
-console.log()
+// check connection
+console.log("connected")
 

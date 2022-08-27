@@ -19,8 +19,7 @@ function App() {
     <div className="App">
       <Container maxWidth="lg">
         <div>
-          <h1>
-          </h1>
+          <h1></h1>
         </div>
       </Container>
     </div>

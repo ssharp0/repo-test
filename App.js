@@ -17,7 +17,11 @@ function App() {
 
   return (
     <div className="App">
-      <Container maxWidth="lg" className={classes.container}>
+      <Container maxWidth="lg">
+        <div>
+          <h1>
+          </h1>
+        </div>
       </Container>
     </div>
   );

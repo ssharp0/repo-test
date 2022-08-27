@@ -1,4 +1,3 @@
-#routing
-const router = require('express').Router()
-
-module.exports = router
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';

@@ -1,3 +1,5 @@
+const { model, Schema } = require('mongoose')
+
 const Person = new Schema({
   regNo: Number,
   name: String,
